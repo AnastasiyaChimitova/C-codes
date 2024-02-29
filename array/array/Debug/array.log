@@ -1,0 +1,15 @@
+﻿Сборка начата 29.02.2024 17:14:43.
+     1>Проект "D:\Настя\Коды\С++\array\array\array.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\Program\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Исходный код.cpp"
+         Исходный код.cpp
+     1>d:\настя\коды\с++\array\array\исходный код.cpp(11): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>d:\настя\коды\с++\array\array\исходный код.cpp(18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+       Link:
+         D:\Program\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Настя\Коды\С++\array\Debug\array.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Настя\Коды\С++\array\Debug\array.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Настя\Коды\С++\array\Debug\array.lib" /MACHINE:X86 "Debug\Исходный код.obj"
+         array.vcxproj -> D:\Настя\Коды\С++\array\Debug\array.exe
+     1>Сборка проекта "D:\Настя\Коды\С++\array\array\array.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.69
